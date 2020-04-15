@@ -1,0 +1,239 @@
+C:\Program Files\nodejs\node.exe C:\Users\ding_\OneDrive\desktop\liri-node-app\liri.js concert-this Drunken Logic
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/16/2020
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/21/2020
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/23/2020
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/28/2020
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/30/2020
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 05/05/2020
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 05/07/2020
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 05/12/2020
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 05/14/2020
+C:\Program Files\nodejs\node.exe C:\Users\ding_\OneDrive\desktop\liri-node-app\liri.js movie-this titanic
+--------------------------------------------------------------------
+Movie Title: Titanic
+Year of Release: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country Produced: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors/Actresses: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+Command:C:\Program Files\nodejs\node.exe C:\Users\ding_\OneDrive\desktop\liri-node-app\liri.js movie-this titanic
+--------------------------------------------------------------------
+Movie Title: Titanic
+Year of Release: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country Produced: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors/Actresses: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+Command:C:\Program Files\nodejs\node.exe C:\Users\ding_\OneDrive\desktop\liri-node-app\liri.js movie-this titanic
+--------------------------------------------------------------------
+Movie Title: Titanic
+Year of Release: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country Produced: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors/Actresses: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+Command:C:\Program Files\nodejs\node.exe C:\Users\ding_\OneDrive\desktop\liri-node-app\liri.js movie-this titanic
+--------------------------------------------------------------------
+Movie Title: Titanic
+Year of Release: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country Produced: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors/Actresses: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+--------------------------------------------------------------------
+Command:C:\Program Files\nodejs\node.exe C:\Users\ding_\OneDrive\desktop\liri-node-app\liri.js concert-this Drunken Logic
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/16/2020
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/21/2020
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/23/2020
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/28/2020
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/30/2020
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 05/05/2020
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 05/07/2020
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 05/12/2020
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 05/14/2020
+--------------------------------------------------------------------
+Command:C:\Program Files\nodejs\node.exe C:\Users\ding_\OneDrive\desktop\liri-node-app\liri.js concert-this Drunken Logic
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/16/2020
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/21/2020
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/23/2020
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/28/2020
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/30/2020
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 05/05/2020
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 05/07/2020
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 05/12/2020
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 05/14/2020
+--------------------------------------------------------------------
+Command:C:\Program Files\nodejs\node.exe C:\Users\ding_\OneDrive\desktop\liri-node-app\liri.js concert-this Drunken Logic
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/16/2020
+--------------------------------------------------------------------
+
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/21/2020
+--------------------------------------------------------------------
+
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/23/2020
+--------------------------------------------------------------------
+
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/28/2020
+--------------------------------------------------------------------
+
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 04/30/2020
+--------------------------------------------------------------------
+
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 05/05/2020
+--------------------------------------------------------------------
+
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 05/07/2020
+--------------------------------------------------------------------
+
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 05/12/2020
+--------------------------------------------------------------------
+
+Venue Name: Streaming LIVE
+Venue Location: 
+Date of the Event: 05/14/2020
+--------------------------------------------------------------------
